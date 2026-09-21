@@ -17,7 +17,7 @@
     "test": "vitest run",
     "preversion": "npm run check"
   },
-  "license": "UNLICENSED",
+  "license": "MIT",
   "peerDependencies": {
     "@earendil-works/pi-coding-agent": "*",
     "@earendil-works/pi-tui": "*",
